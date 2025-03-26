@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="CDB">34f9b9f3835b121007fc9420ceaad318</application>
+        <filter/>
+        <name>CDBs</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_505356_cdb.cdb_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:32:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>74f9b9f3835b121007fc9420ceaad328</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDBs</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_update_name>sys_ui_module_74f9b9f3835b121007fc9420ceaad328</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:32:55</sys_updated_on>
+        <table>x_505356_cdb_cdb</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

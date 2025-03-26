@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="fd683573835b121007fc9420ceaad323" extends="sn_creatorstudio_task" label="CDB Request" max_length="40" name="x_505356_cdb_request" type="collection"/>
+</database>

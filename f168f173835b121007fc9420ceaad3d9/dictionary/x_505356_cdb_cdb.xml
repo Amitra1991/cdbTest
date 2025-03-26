@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a2b9b973835b121007fc9420ceaad31f" label="CDB" max_length="40" name="x_505356_cdb_cdb" type="collection">
+        <element label="L2" max_length="40" name="l2" type="string"/>
+        <element default="0" label="Email Address" max_length="100" name="email_address" type="string"/>
+        <element label="L3" max_length="40" name="l3" type="string"/>
+        <element label="L1" max_length="40" name="l1" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog_view_mtom">
+    <sc_catalog_view_mtom action="INSERT_OR_UPDATE">
+        <default>true</default>
+        <sc_catalog display_value="CDB Request">a27a3937835b121007fc9420ceaad314</sc_catalog>
+        <sys_class_name>sc_catalog_view_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:38:08</sys_created_on>
+        <sys_id>1d2bb577835b121007fc9420ceaad3df</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDB Request.catalog_cdb_request</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_policy/>
+        <sys_portal_page display_value="catalog_cdb_request">dd2bb577835b121007fc9420ceaad3dd</sys_portal_page>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_update_name>sc_catalog_view_mtom_1d2bb577835b121007fc9420ceaad3df</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:38:08</sys_updated_on>
+    </sc_catalog_view_mtom>
+</record_update>

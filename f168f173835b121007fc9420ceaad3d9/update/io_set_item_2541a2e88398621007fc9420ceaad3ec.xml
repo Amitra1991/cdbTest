@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <sc_cat_item display_value="CDB Update">01d022608318621007fc9420ceaad30c</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-12 08:07:16</sys_created_on>
+        <sys_id>2541a2e88398621007fc9420ceaad3ec</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Selected Records.CDB Update</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_update_name>io_set_item_2541a2e88398621007fc9420ceaad3ec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-12 08:07:16</sys_updated_on>
+        <variable_set display_value="Selected Records">c321a6a883d8621007fc9420ceaad363</variable_set>
+    </io_set_item>
+</record_update>

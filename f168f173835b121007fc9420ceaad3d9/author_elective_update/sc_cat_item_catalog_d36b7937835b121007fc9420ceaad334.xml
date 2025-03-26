@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="CDB Request">0f3bb977835b121007fc9420ceaad3fb</sc_cat_item>
+        <sc_catalog display_value="CDB Request">a27a3937835b121007fc9420ceaad314</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:39:23</sys_created_on>
+        <sys_id>d36b7937835b121007fc9420ceaad334</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDB Request.CDB Request</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_d36b7937835b121007fc9420ceaad334</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:39:23</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CDB">f168f173835b121007fc9420ceaad3d9</application>
+        <file_path/>
+        <instance_id>4236245a1b49ca54c82acb7b234bcb3a</instance_id>
+        <instance_name>dev247901</instance_name>
+        <name>sc_cat_item_catalog_d36b7937835b121007fc9420ceaad334</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="CDB Request">0f3bb977835b121007fc9420ceaad3fb</sc_cat_item><sc_catalog display_value="CDB Request">a27a3937835b121007fc9420ceaad314</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-01-31 14:39:23</sys_created_on><sys_id>d36b7937835b121007fc9420ceaad334</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CDB Request.CDB Request</sys_name><sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package><sys_policy/><sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope><sys_update_name>sc_cat_item_catalog_d36b7937835b121007fc9420ceaad334</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-01-31 14:39:23</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2107613213</payload_hash>
+        <record_name>CDB Request.CDB Request</record_name>
+        <reverted_from/>
+        <source>fd683573835b121007fc9420ceaad31c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:39:23</sys_created_on>
+        <sys_id>af6bfd77835b121007fc9420ceaad314</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>194bccd5e7a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:39:23</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a36bfd77445b12101ea1f63acfc73214</update_guid>
+        <update_guid_history>a36bfd77445b12101ea1f63acfc73214:-2107613213</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CDB Request.CDB Request">765fb5fb835b121007fc9420ceaad309</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:56:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>109973bcacfc4a22a4e253741ff9cec4</sys_id>
+        <sys_metadata>d36b7937835b121007fc9420ceaad334</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CDB Request.CDB Request</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_parent display_value="CDB Request">0f3bb977835b121007fc9420ceaad3fb</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_scope_delete display_value="">0f74602c42fb451c8df64dfc76c61524</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_d36b7937835b121007fc9420ceaad334</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_d36b7937835b121007fc9420ceaad334">af6bfd77835b121007fc9420ceaad314</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:56:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

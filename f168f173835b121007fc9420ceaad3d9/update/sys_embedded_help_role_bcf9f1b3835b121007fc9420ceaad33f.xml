@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_505356_cdb.cdb_user" name="x_505356_cdb.cdb_user">3cf9f1b3835b121007fc9420ceaad33d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-31 14:32:55</sys_created_on>
+        <sys_id>bcf9f1b3835b121007fc9420ceaad33f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3cf9f1b3835b121007fc9420ceaad33d</sys_name>
+        <sys_package display_value="CDB" source="x_505356_cdb">f168f173835b121007fc9420ceaad3d9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CDB">f168f173835b121007fc9420ceaad3d9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_bcf9f1b3835b121007fc9420ceaad33f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-31 14:32:55</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
